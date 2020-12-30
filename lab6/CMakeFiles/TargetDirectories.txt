@@ -1,0 +1,3 @@
+/home/vladislav/apps/assignment-6-low-level/CMakeFiles/rebuild_cache.dir
+/home/vladislav/apps/assignment-6-low-level/CMakeFiles/edit_cache.dir
+/home/vladislav/apps/assignment-6-low-level/CMakeFiles/lab6.dir

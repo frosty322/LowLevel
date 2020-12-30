@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vladislav/apps/assignment-6-low-level/src/image_manip.c
+structs.h
+-
+stdio.h
+-
+math.h
+-
+
+/home/vladislav/apps/assignment-6-low-level/src/image_parser.c
+image_parser.h
+-
+stdio.h
+-
+
+/home/vladislav/apps/assignment-6-low-level/src/main.c
+image_parser.h
+-
+image_manip.h
+-
+stdio.h
+-
+
+include/image_manip.h
+
+include/image_parser.h
+structs.h
+-
+
+include/structs.h
+stdlib.h
+-
+stdint.h
+-
+
